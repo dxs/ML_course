@@ -1,0 +1,2 @@
+Stochastic gradient descent ecpained clearly
+https://www.youtube.com/watch?v=vMh0zPT0tLI
